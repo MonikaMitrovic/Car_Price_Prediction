@@ -4,19 +4,33 @@ The goal of the project is to build models that can accurately predict a car’s
 
 # Features used:
 Make– car manufacturer (brand)
+
 Model – specific model of the car
+
 Year – year of production
+
 Engine Fuel Type – fuel type (gasoline, diesel, electric, etc.)
+
 Engine HP – engine horsepower
+
 Engine Cylinders – number of cylinders
+
 Transmission Type – manual or automatic (etc.)
+
 Driven Wheels – drive type (FWD, RWD, AWD)
+
 Number of Doors – number of vehicle doors
+
 Market Category – market segment (luxury, sports, SUV, economy, etc.)
+
 Vehicle Size – size class of the vehicle
+
 Vehicle Style – body type (sedan, coupe, hatchback, SUV, etc.)
+
 Highway MPG / City MPG – fuel efficiency
+
 Popularity – popularity score
+
 MSRP – target variable (price)
 
 # Project Approach:
